@@ -1,0 +1,9 @@
+com\mkyong\stock\config\HibernateConfig$1.class
+com\mkyong\stock\model\Stock.class
+com\mkyong\stock\config\AppConfig.class
+com\mkyong\stock\TestApp.class
+com\mkyong\stock\dao\impl\StockDaoImpl.class
+com\mkyong\stock\bo\impl\StockBoImpl.class
+com\mkyong\stock\config\HibernateConfig.class
+com\mkyong\stock\dao\StockDao.class
+com\mkyong\stock\bo\StockBo.class
